@@ -6,5 +6,6 @@ This repo is for testing and you can you can complete your hacktoberfest challen
 
 
 Do not put in any copyright material.
+Any copyright material here is not the repo owners responsibility.
 
 
